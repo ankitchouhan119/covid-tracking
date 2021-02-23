@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-    char a,b,c,d,e,f,firstname[20],middlename[20],lastname[20],state[20];
+    char a,b,c,d,e,f,firstname[20],lastname[20],state[20];
     int i,j=1,age,x,count=0,p;
      for (int i=0;i<100;i++)
           {
