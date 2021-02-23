@@ -110,7 +110,7 @@ for(int i=0;i<100;i++)
                 printf("%c",j);
                }
                printf("\n");
-printf("\n\n\t\t\xB3\xB2=\xB2=\xB2-\xB3 REPORT \xB3\xB2=\xB2=\xB2-\xB3\n\n");
+printf("\n\n\t\t          \xB3\xB2=\xB2=\xB2-\xB3\xB3\xB2=\xB2=\xB2-\xB3              REPORT            \xB3\xB2=\xB2=\xB2-\xB3\xB3\xB2=\xB2=\xB2-\xB3\n\n");
 for(int i=0;i<100;i++)
                {
 
