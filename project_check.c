@@ -74,7 +74,7 @@ if (x>=38)
 {
     count+=1;
 }
-printf("\n\n\t If you are suffering from any one write y\n\t1) Dry cough \n\t2) Shortness of breath \n\t3) Headaches \n\t4) Aches and Pains \n\t5) Sore throat \n\t6) fatigue \n\t7) Diarrhea  \nAns:- ");
+printf("\n\n\t If you are suffering from any one write (y/n)\n\t1) Dry cough \n\t2) Shortness of breath \n\t3) Headaches \n\t4) Aches and Pains \n\t5) Sore throat \n\t6) fatigue \n\t7) Diarrhea  \nAns:- ");
 fflush(stdin);
 scanf("%c",&e);
 if(e=='y' || e=='Y')
